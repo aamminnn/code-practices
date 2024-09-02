@@ -1,0 +1,15 @@
+D:\Amin\coding\code-practices\c#\bin\Debug\net8.0\c#.exe
+D:\Amin\coding\code-practices\c#\bin\Debug\net8.0\c#.deps.json
+D:\Amin\coding\code-practices\c#\bin\Debug\net8.0\c#.runtimeconfig.json
+D:\Amin\coding\code-practices\c#\bin\Debug\net8.0\c#.dll
+D:\Amin\coding\code-practices\c#\bin\Debug\net8.0\c#.pdb
+D:\Amin\coding\code-practices\c#\obj\Debug\net8.0\c#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Amin\coding\code-practices\c#\obj\Debug\net8.0\c#.AssemblyInfoInputs.cache
+D:\Amin\coding\code-practices\c#\obj\Debug\net8.0\c#.AssemblyInfo.cs
+D:\Amin\coding\code-practices\c#\obj\Debug\net8.0\c#.csproj.CoreCompileInputs.cache
+D:\Amin\coding\code-practices\c#\obj\Debug\net8.0\c#.sourcelink.json
+D:\Amin\coding\code-practices\c#\obj\Debug\net8.0\c#.dll
+D:\Amin\coding\code-practices\c#\obj\Debug\net8.0\refint\c#.dll
+D:\Amin\coding\code-practices\c#\obj\Debug\net8.0\c#.pdb
+D:\Amin\coding\code-practices\c#\obj\Debug\net8.0\c#.genruntimeconfig.cache
+D:\Amin\coding\code-practices\c#\obj\Debug\net8.0\ref\c#.dll
