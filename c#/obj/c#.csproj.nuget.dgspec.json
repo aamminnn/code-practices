@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Amin\\coding\\code-practices\\c#\\c#.csproj": {}
+    "/Users/aminaffandi/Documents/Personal/training/code-practices/c#/c#.csproj": {}
   },
   "projects": {
-    "D:\\Amin\\coding\\code-practices\\c#\\c#.csproj": {
+    "/Users/aminaffandi/Documents/Personal/training/code-practices/c#/c#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Amin\\coding\\code-practices\\c#\\c#.csproj",
+        "projectUniqueName": "/Users/aminaffandi/Documents/Personal/training/code-practices/c#/c#.csproj",
         "projectName": "c#",
-        "projectPath": "D:\\Amin\\coding\\code-practices\\c#\\c#.csproj",
-        "packagesPath": "C:\\Users\\Kamal\\.nuget\\packages\\",
-        "outputPath": "D:\\Amin\\coding\\code-practices\\c#\\obj\\",
+        "projectPath": "/Users/aminaffandi/Documents/Personal/training/code-practices/c#/c#.csproj",
+        "packagesPath": "/Users/aminaffandi/.nuget/packages/",
+        "outputPath": "/Users/aminaffandi/Documents/Personal/training/code-practices/c#/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Kamal\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/aminaffandi/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
