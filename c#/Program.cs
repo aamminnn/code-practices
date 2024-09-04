@@ -21,19 +21,23 @@ public class Program {
             {1,2,3},
             {4,5,6}
         };
-
         int [,] matrixB = {
             {1,2},
             {3,4},
             {5,6}
         };
-
         System.Console.WriteLine("Matrix A");
         Matrix.displayMatrix(matrixA);
         System.Console.WriteLine("Matrix B");
         Matrix.displayMatrix(matrixB);
         int [,] result = Matrix.multiplyMatrix(matrixA, matrixB);
         Matrix.displayMatrix(result);
+
+        //3 Palindrome
+        int num = 1010;
+        System.Console.WriteLine("Palindrome "+num);
+        bool palindrome_result = Palindrome.palindrome(num);
+        System.Console.WriteLine(palindrome_result);
     }
 
     
