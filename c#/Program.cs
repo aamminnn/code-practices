@@ -38,6 +38,14 @@ public class Program {
         System.Console.WriteLine("Palindrome "+num);
         bool palindrome_result = Palindrome.palindrome(num);
         System.Console.WriteLine(palindrome_result);
+
+        //4. Remove duplicate in array
+        int [] n = Duplicate.generateRandomList(10, 11, 99); // generate 10 random number between 11 and 99
+        Duplicate.printArray(n);
+        int [] sorted_n = Duplicate.sortAscending(n);
+        Duplicate.printArray(sorted_n);
+        int [] removedResult = Duplicate.removeDuplicate(sorted_n);
+        Duplicate.printArray(removedResult);
     }
 
     
